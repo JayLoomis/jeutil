@@ -4,4 +4,5 @@ In its present form, this library can manage grid maps with rectangular tiles on
 */
 
 class Map {
+  // Constructor takes a name, a tileset, and optionally, a mapfile.
 }
